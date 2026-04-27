@@ -75,10 +75,10 @@ O objetivo foi aplicar na prática conceitos de administração de redes, centra
 
 ## 📸 Imagens do Projeto
 
-![AD](imagens/ad.png)
-![GPO](imagens/gpo.png)
-![WSUS](imagens/wsus.png)
-![FileServer](imagens/fileserver.png)
+![AD](ad.png)
+![GPO](gpo.png)
+![WSUS](wsus.png)
+![FileServer](fileserver.png)
 
 ---
 
