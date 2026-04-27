@@ -75,7 +75,7 @@ O objetivo foi aplicar na prática conceitos de administração de redes, centra
 
 ## 📸 Imagens do Projeto
 
-/imagens/01_AD_Estrutura.png.png
+AD(/imagens/01_AD_Estrutura.png.png)
 ![GPO](gpo.png)
 ![WSUS](wsus.png)
 ![FileServer](fileserver.png)
