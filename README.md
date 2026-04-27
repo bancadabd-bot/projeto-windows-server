@@ -86,7 +86,7 @@ O objetivo foi aplicar na prática conceitos de administração de redes, centra
 
 A documentação detalhada do projeto está disponível em:
 
-📂 docs/projeto.pdf
+https://github.com/bancadabd-bot/projeto-windows-server/blob/main/projeto_de_implementa%C3%A7%C3%A3o.pdf
 
 ---
 
