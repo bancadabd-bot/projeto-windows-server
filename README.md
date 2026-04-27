@@ -78,7 +78,9 @@ O objetivo foi aplicar na prática conceitos de administração de redes, centra
 ![AD](AD.png)
 ![GPO](gpo.png)
 ![WSUS](wsus.png)
-![FileServer](fileserver.png)
+![GPO1](GPO_Publico.png)
+![GPO2](GPO_Publico2.png)
+
 
 ---
 
